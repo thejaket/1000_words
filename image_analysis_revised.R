@@ -1,5 +1,3 @@
-setwd("~/Projects/1000 Words/Replication")
-
 #library(cjoint)
 library(cregg)
 library(Amelia)
